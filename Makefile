@@ -6,15 +6,15 @@ GO_EASY_ON_ME = 1
 ARCHS = arm64
 
 
-export THEOS=/var/jb/var/mobile/theos
 
-TARGET = iphone:16.5:10.0
+
+TARGET = iphone:latest
 
 #THEOS_PACKAGE_SCHEME = rootless
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = LAYS
+TWEAK_NAME = Menu
 
 
 
