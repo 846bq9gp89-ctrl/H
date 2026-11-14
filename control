@@ -1,0 +1,9 @@
+Package: com.engine
+Name: Mole UE4
+Depends: firmware (>= 5.0), mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: 安装后注销生效！
+Maintainer: TG：iOSMole521
+Author: @Mole
+Section: Tweaks
